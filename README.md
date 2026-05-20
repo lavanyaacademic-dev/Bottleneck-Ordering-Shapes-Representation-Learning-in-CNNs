@@ -6,18 +6,18 @@
 # Bottleneck-Ordering-Shapes-Representation-Learning-in-CNNs
 This work introduces the Multi-Stage Bottleneck CNN (MSB-CNN) to systematically investigate how hierarchical capacity allocation influences representation learning in convolutional neural networks.
 
-Environment setup
-Python/PyTorch versions
-Installation commands
-Dataset download/preparation
-Training commands
-Evaluation commands
-Reproduction of figures/tables
-Bottleneck configurations
-CKA analysis scripts
-Retinal preprocessing implementation
-Hardware requirements
-Expected runtime
+Environment setup-
+Python/PyTorch versions-
+Installation commands-
+Dataset download/preparation-
+Training commands-
+Evaluation commands-
+Reproduction of figures/tables-
+Bottleneck configurations-
+CKA analysis scripts-
+Retinal preprocessing implementation-
+Hardware requirements-
+Expected runtime-
 
 
 # If you use this code, please cite it using the metadata from 'citation'.

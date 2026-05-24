@@ -36,7 +36,7 @@ conda activate msbcnn
 
 # Bottleneck Configurations
 # MSB-CNN
-# Configuration	Stage 1	Stage 2	Stage 3
+Configuration	  Stage 1	  Stage 2 	Stage 3
      Tight	      4	      8	      16
      Progressive	 8     	 32	      128
      Regressive	128	      32	       8

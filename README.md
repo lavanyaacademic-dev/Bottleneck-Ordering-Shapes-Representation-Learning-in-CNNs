@@ -47,7 +47,7 @@ Configuration	  Stage 1	  Stage 2 	Stage 3
 # Configuration	       Channels
   Progressive	         [32, 64, 128, 256]
   Regressive	         [256, 128, 64, 32]
-  Uniform	             [64, 64, 64, 64]
+  Uniform	              [64, 64, 64, 64]
 
 
 # CKA Analysis

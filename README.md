@@ -37,10 +37,10 @@ conda activate msbcnn
 # Bottleneck Configurations
 # MSB-CNN
 
-     Tight[ 4,	      8,	      16]
-     Progressive[ 8,     	 32,	      128]
-     Regressive[128,      32,       8]
-     Wide[ 32,      64,	      128]
+     Tight[4,8,16]
+     Progressive[8,32,128]
+     Regressive[128,32,8]
+     Wide[32,64,128]
 
      
 # Bottleneck ResNet18

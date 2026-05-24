@@ -60,7 +60,7 @@ cross-model comparison
 
 Run:
 
-python cka.py
+python cka.py,
 msb_cnn+_resnet_+_cka_.py
 
 
@@ -79,7 +79,7 @@ spatial frequency emphasis
 Implementation is provided in:
 
 
-ganglion_filters.py
+ganglion_filters.py,
 retinal_ganglion_cell_model.py
 
 # Hardware Requirements

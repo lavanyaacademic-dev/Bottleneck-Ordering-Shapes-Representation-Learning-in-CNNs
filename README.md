@@ -96,10 +96,10 @@ CUDA-enabled environment
 
 Approximate runtimes:
 
-Dataset	Model	Runtime
-CIFAR-10	MSB-CNN	4–5 hours
-CIFAR-100	Bottleneck ResNet18	6–8 hours
-Tiny-ImageNet	Bottleneck ResNet18	10–12 hours
+Dataset	      Model	               Runtime
+CIFAR-10	     MSB-CNN	                4–5 hours
+CIFAR-100  	Bottleneck ResNet18	      6–8 hours
+Tiny-ImageNet	Bottleneck ResNet18	      10–12 hours
 
 Runtime depends on:
 

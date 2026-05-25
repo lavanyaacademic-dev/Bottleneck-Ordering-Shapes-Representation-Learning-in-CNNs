@@ -84,11 +84,11 @@ retinal_ganglion_cell_model.py
 
 # Large-scale benchmark validation using bottleneck-ordered ResNet18 architectures
 Includes:
-Large-scale benchmark validation
-ResNet experiments
-Representation analysis
-CKA analysis
-Architectural depth
+Large-scale benchmark validation,
+ResNet experiments,
+Representation analysis,
+CKA analysis,
+Architectural depth and
 Reproducibility
 
 

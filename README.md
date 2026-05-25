@@ -82,6 +82,11 @@ Implementation is provided in:
 ganglion_filters.py,
 retinal_ganglion_cell_model.py
 
+# Large-scale benchmark validation using bottleneck-ordered ResNet18 architectures
+
+Implementation is provided in:
+validation.py
+
 # Hardware Requirements
 
 Recommended:

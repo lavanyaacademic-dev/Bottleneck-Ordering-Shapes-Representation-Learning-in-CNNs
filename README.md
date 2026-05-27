@@ -126,7 +126,7 @@ If you use this work, please cite:
 @article{Lavanya_2026,
 author = {Lavanya Srinivasan},
 doi = {10.5072/zenodo.502246},
-journal = {The Visual Computer},
+journal = {},
 title = {{Bottleneck Ordering Shapes Representation Learning in CNNs}},
 year = {2026}
 }
